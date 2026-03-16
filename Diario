@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=1024">
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { width: 1024px; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <iframe src="https://nicolas-wozniak.super.so"></iframe>
+</body>
+</html>
